@@ -13,7 +13,7 @@
 https://github.com/ShareGPT4Omni/ShareGPT4Video
 
 ### 📄 Paper
-https://arxiv.org/abs/2406.04325v1
+https://arxiv.org/abs/2406.04325
 
 ### 🌐 Page
 https://sharegpt4video.github.io/
