@@ -7,7 +7,6 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ShareGPT4Video-jupyter/blob/main/ShareGPT4Video_jupyter.ipynb) | ShareGPT4Video_jupyter (Pro Colab 😭 ~22GB RAM)
-<a target="_blank" href="https://lightning.ai/camenduru/studios/sharegpt4video-jupyter"> <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/></a> | ShareGPT4Video_jupyter (Free Lightning Studio)
 
 ### 🧬 Code
 https://github.com/ShareGPT4Omni/ShareGPT4Video
